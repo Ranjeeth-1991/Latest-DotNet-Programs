@@ -2,7 +2,7 @@
 
 A short summary of the feature
 
-@tag1
+@tag1 @tag2
 Scenario: Login to Sauce Demo Application
 	Given User Login to Sauce Demo Login Page.
 	When User Enter the User Name in Login Page.
